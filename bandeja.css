@@ -1,0 +1,106 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+
+body{
+background:url(bandeja-paisa2.jpg) no-repeat center;
+background-size: cover;
+background-attachment: fixed;
+height:100vh;
+width:100%;
+animation: slidebg 15s linear infinite 0s;
+animation-timing-function: ease-in-out;
+}
+.container1{
+background-color:  #f3f4f5;
+color: #757575;
+width: 82%;
+margin: 25px auto;
+padding-top: 10px;
+border-radius: 10px;
+
+}
+header{
+    padding-top: 10px;
+}
+h1{ 
+background-color: #9a9da0;
+color:rgb(0, 0, 0);
+text-align: center;
+font-family: Arial;
+font-size: 24px;
+padding: 20px;
+border-radius: 10px;
+opacity: 0.9;
+padding-top: -10px;
+
+}
+
+h2{
+color: #757575;
+text-align: center;
+font-family: Arial;
+font-size: 20px;
+margin: 10px;
+}
+
+b{
+color:#757575;
+}
+p{
+color: #757575;
+font-family: Georgia;
+font-size: 18px;
+padding: 15px;
+}
+li{
+color:#757575;}
+
+div.bandeja{
+width: 98%;
+height: 50%;
+margin: 5px auto;
+color: #f8f4f4;
+
+}
+
+div.bandeja img.Box1 {
+float: left;
+margin-right: 10px;
+border-radius: 50px;
+padding: 15px;
+width: 25%;
+height: 33%;
+
+}
+p.Contexto{
+    text-align: justify;
+}
+p.Contexto2{
+    text-align: justify;
+}
+
+footer{
+    background-color: #9a9da0;
+    font-size: 20px;
+    color:#757575;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+
